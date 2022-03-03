@@ -1,0 +1,70 @@
+body,
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.nav {
+  background: rgb(41, 40, 40);
+}
+.nav__img {
+  width: 100px;
+  padding: 15px 5px 15px 20px;
+}
+.nav__title {
+  font-size: large;
+  color: white;
+  padding-top: 35px;
+}
+.superhero {
+   text-align: center;
+   padding: 30px 0;
+}
+.superhero__img{
+    width: 500px;
+}
+.content1{
+   padding-left: 350px;
+}
+.subtitle {
+  font-size: small;
+}
+#button {
+  margin: 10px 0;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  color: aliceblue;
+  padding: 5px 15px;
+}
+#number {
+  width: 600px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-color: 1px solid rgb(163, 158, 158);
+}
+.content {
+  display: flex;
+  padding: 30px;
+}
+#card {
+  width: 50%;
+  padding: 20px;
+  margin: auto;
+}
+#pastel {
+  width: 50%;
+  padding: 20px;
+  height: 320px;
+}
+.title1{
+    color: rgb(80, 78, 78);
+    padding-left: 180px;
+    font-size: 20px;
+}
